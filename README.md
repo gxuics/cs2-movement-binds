@@ -3,3 +3,5 @@ Create a folder on game\csgo\cfg\movement then download the configs on this gith
 Second part, download the autoexec and put it on game\csgo\cfg
 
 Note that you have to exec it everytime u open the game, also change the binds to your own on autoexec if you don't like what i have.
+
+FULL TUTORIAL HERE : https://youtu.be/9cpw9eqivv0
